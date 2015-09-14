@@ -1,6 +1,6 @@
 {
   "name": "mgscarp-contactpoint",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "The contact point model for a business.",
   "main": "index.js",
   "scripts": {
